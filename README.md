@@ -4,7 +4,6 @@ A curated collection of **ATS-friendly software engineer resume templates** for 
 
 These resume templates are simple, recruiter-friendly, and commonly used by engineers applying to **Google, Amazon, Microsoft, Meta, startups, and product companies**.
 
-Browse the templates below and click any preview to view details and download access.
 
 ---
 
